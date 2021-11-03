@@ -15,7 +15,7 @@ blocks:
         - name: GCP_PROJECT_ID
           value: annular-arena-247212
         - name: GCP_PROJECT_DEFAULT_ZONE
-          value: us-central1-b
+          value: us-central1
       prologue:
         commands:
           - gcloud auth activate-service-account --key-file=.secrets/gcp.json
