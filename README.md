@@ -47,7 +47,7 @@ You may do whichever, and however many, of the tasks above as you'd like. We sus
   - A link to a hosted AWS deployment.
   - One or more screenshots showing, at least, the index page of the final deployment.
 
-Your work assets should include:
+Your work assets should include::
 
 - IaC files, if you completed that task.
 - One or more Dockerfiles, if you completed that task.
